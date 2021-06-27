@@ -1,0 +1,24 @@
+ul {
+  background-color: white;
+  color: gray;
+  list-style: none;
+  width: 50%;
+  text-align: center;
+}
+li {
+  text-align: center;
+  display: inline;
+}
+a {
+  display: inline-block;
+  padding: 14px 16px;
+}
+.tb {
+  background-color: #f1f1f1;
+  color: black;
+  font-size: 100px;
+  height: 60%;
+  width: 100%;
+  text-align: center;
+  padding-top: 25px;
+}
